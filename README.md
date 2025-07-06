@@ -1,6 +1,8 @@
 💸 Split Bill Calculator
 A simple and responsive frontend project that helps you quickly split a bill among a group of people — perfect for dining out or shared expenses.
 
+link : https://pulkitxmeen.github.io/Split-Bill-Calculator/
+
 ✨ Features
 💰 Enter total bill amount
 
